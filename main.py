@@ -1,6 +1,3 @@
-'''
-Gnay 19.08.2024 Kazakhstan
-'''
 
 from PySide6.QtWidgets import QApplication, QVBoxLayout, QLabel, QCalendarWidget, QPushButton, QWidget, QHBoxLayout
 from PySide6.QtCore import QDate
